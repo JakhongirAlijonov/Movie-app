@@ -43,4 +43,7 @@ button.active{
   button{
     margin-bottom: 0.5rem;
   }
+  body{
+    margin: 10px;
+  }
 }
